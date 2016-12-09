@@ -6,9 +6,9 @@
     <div class="header-in clearfix">
 
       <div id="top-left" class="col-md-6 col-sm-12 col-xs-12">
-          <h1 id="logo"><a href="{{ Request::path() == 'blog' ? route('home') : '/blog' }}">NAIROBI.IO</a></h1> 
+          <h1 id="logo"><a href="{{ Request::path() == 'blog' ? route('home') : '/blog' }}">Horizon Softwares</a></h1> 
           <br/>
-          <h4 id="creed">Technology From Africa</h4>
+          <h4 id="creed">we develop softwares</h4>
           <form action="{{ route('blog.search') }}" method="post" accept-charset="utf-8" class="search">
             <button type="submit" class="icon icon-search-1"></button>
             <input type="hidden" name="_token" value="{{ csrf_token() }}" >

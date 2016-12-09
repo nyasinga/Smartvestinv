@@ -85,7 +85,7 @@ class FrontendController extends Controller
             // Send the email
             try {
                 Mail::send('emails.simple', $input, function($message) use ($input) {
-                    $message->subject('Contact Form From Nairobi IO - ' .$input['name']);
+                    $message->subject('Contact Form From Horizon Softwares - ' .$input['name']);
                     $message->replyTo([$input['email'] => $input['name']]);
                     $message->to(['info@shopofficer.com' => 'ShopOfficer Support']);
                     $message->setBody($input['body']);

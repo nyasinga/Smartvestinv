@@ -12,7 +12,7 @@
 
                 <div class="col-xs-12">
                     <hgroup class="slogan align-center opacity">
-                        <h1><span>Proudly</span> Built In <span>Africa</span></h1>
+                        <h1><span>Proudly</span> Forked In <span>Africa</span></h1>
                     </hgroup>       
                 </div>
 
@@ -88,7 +88,7 @@
 
             <div class="row">
                 <div class="col-xs-12">
-                    <h1><a href="{{ route('frontend.home') }}">Nairobi IO</a></h1>
+                    <h1><a href="{{ route('frontend.home') }}">Horizon Softwares</a></h1>
                 </div>
             </div><!--/ .row-->
 
@@ -115,14 +115,14 @@
                     <a href="#signin" data-toggle="modal">Log In</a> &#8226; 
                 @endif
             </div>
-            <a href="{{ route('frontend.home') }}">Nairobi IO</a> © 2014-2016. All rights reserved.
+            <a href="{{ route('frontend.home') }}">Horizon Softwares</a> © 2014-2016. All rights reserved.
         </div><!--/ .cppyright-->
 
         <ul class="social-icons">
-            <li class="twitter"><a href="https://twitter.com/nairobiio"><i class="icon-twitter"></i>Twitter</a></li>
-            <li class="facebook"><a href="https://www.facebook.com/nairobiio"><i class="icon-facebook"></i>Facebook</a></li>
-            <li class="linkedin"><a href="#https://www.linkedin.com/in/nairobiio"><i class="icon-linkedin"></i>LinkedIn</a></li>
-            <li class="youtube"><a href="#"><i class="icon-youtube"></i>Youtube</a></li>
+            <li class="twitter"><a href="https://twitter.com/h_softwares"><i class="icon-twitter"></i>Twitter</a></li>
+            <li class="facebook"><a href="https://www.facebook.com/horizonsoftwareske"><i class="icon-facebook"></i>Facebook</a></li>
+            <li class="linkedin"><a href="https://www.linkedin.com/company/horizon-softwares"><i class="icon-linkedin"></i>LinkedIn</a></li>
+            <li class="youtube"><a href="https://www.youtube.com/channel/UCUQG1j0UaGfkaTdiwKYdYQA"><i class="icon-youtube"></i>Youtube</a></li>
         </ul><!--/ .social-icons-->
 
     </div><!--/ .bottom-footer-->   
