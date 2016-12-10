@@ -633,7 +633,7 @@
 			},
 			queryLoader: function (self) {
 				this.el.queryLoader2({
-					barColor: '#00c2a9',
+					barColor: '#1E90FF',
 					backgroundColor: '#fff',
 					percentage: true,
 					barHeight: 3,

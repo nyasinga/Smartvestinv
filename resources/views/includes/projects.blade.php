@@ -9,7 +9,7 @@
 
                 <div class="col-xs-12">
                     <hgroup class="section-title align-center opacity">
-                        <h1>What We Have Built</h1>
+                        <h1>Our Products & Services </h1>
                     </hgroup>                           
                 </div>
 
@@ -20,9 +20,9 @@
                 <div class="col-xs-12">
                     <ul id="portfolio-filter" class="portfolio-filter opacity">
                         <li class="filter active" data-filter="all">All</li>
-                        <li class="filter" data-filter="government">Government Projects</li>
-                        <li class="filter" data-filter="npo">Non Profits</li>
-                        <li class="filter" data-filter="company">Companies</li>
+                        <li class="filter" data-filter="savings">Savings</li>
+                        <li class="filter" data-filter="ltl">Short-Term Advances/Loans</li>
+                        <!-- <li class="filter" data-filter="company">Companies</li> -->
                     </ul><!--/ #portfolio-filter -->        
                 </div>
 
@@ -113,45 +113,51 @@
                 </div><!--/ .work-item-->
 
             </li>
-            <li class="government mix mix_all opacity2x">
+            <li class="savings mix mix_all opacity2x">
 
                 <div class="work-item">
                     <a class="fancybox" rel="group" href="assets/img/portfolio/soundprogress-big.png" 
-                    title="SoundProgress is a modern teaching technique for elementary school students that uses structured repetition of an exercises together with ongoing measurement and analysis of student performance to track progress. 
-                    <br>Client: Kent County Council, UK 
-                    <br>Visit: <a href='http://soundprogress.co.uk'>http://soundprogress.co.uk</a>">
-                        <img src="assets/img/portfolio/soundprogress.png" alt="" />
+                    title="SmartVest Ke offers its investors a platform to invest and earn up to 15% semi-annually and up to 30% annually.. 
+                    We got 3 options of savings as below;
+                        i). Normal Investment Plan 
+                        ii).Festive investment Plan
+                        iii).Scholar Investment Plan
+                            ">
+                        <img src="assets/img/portfolio/saving.png" alt="" />
                         <div class="image-extra">
                             <hgroup class="extra-content">
-                                <h2 class="extra-title">SoundProgress</h2>
+                                <h2 class="extra-title">Savings</h2>
                                 <h6 class="extra-category">Web</h6>
                             </hgroup><!--/ .extra-content-->    
                         </div><!--/ .image-extra-->
                         <!-- <span class="site"><i class="icon-forward"></i></span> -->
                     </a>    
-                    <a class="site" href="http://soundprogress.co.uk" target="_blank"><i class="icon-forward"></i></a>
+                   
                 </div><!--/ .work-item-->
 
             </li>
 
 
-            <li class="npo mix mix_all opacity2x">
+            <li class="ltl mix mix_all opacity2x">
 
                 <div class="work-item">
                     <a class="fancybox" rel="group" href="assets/img/portfolio/eurohacktrip-big.jpg" 
-                    title="Eurohacktrip was a project to give startups from Nairobi an opportunity to pitch and network in key places and events in Europe. The trip did not happen due to inadequate funds but the effort was worthwhile and lessons were learnt. 
-                    <br>Client: NairobiIO Project. 
-                    <br>Visit: <a href='http://eurohacktrip.nairobi.io'>eurohacktrip.nairobi.io</a>">
-                        <img src="assets/img/portfolio/eurohacktrip.jpg" alt="" />
+                    title="We empower our investors by enabling them borrow against their investment plans while they are earning interest.
+                        One can access finances by either of the two options below; 
+
+                        i).Monthly Cash Advances.
+                        ii).Short-Term Loans.
+                    ">
+                        <img src="assets/img/portfolio/loanadvance.jpg" alt="" />
                         <div class="image-extra">
                             <hgroup class="extra-content">
-                                <h2 class="extra-title">Eurohacktrip</h2>
+                                <h2 class="extra-title">Advances/Loans</h2>
                                 <h6 class="extra-category">Web</h6>
                             </hgroup><!--/ .extra-content-->    
                         </div><!--/ .image-extra-->
                         <!-- <span class="site"><i class="icon-forward"></i></span> -->
                     </a>    
-                    <a class="site" href="http://eurohacktrip.nairobi.io" target="_blank"><i class="icon-forward"></i></a>
+                    
                 </div><!--/ .work-item-->
 
             </li>                   

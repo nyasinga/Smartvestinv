@@ -6,9 +6,9 @@
     <div class="header-in clearfix">
 
       <div id="top-left" class="col-md-6 col-sm-12 col-xs-12">
-          <h1 id="logo"><a href="{{ Request::path() == 'blog' ? route('home') : '/blog' }}">Horizon Softwares</a></h1> 
+          <h1 id="logo"><a href="{{ Request::path() == 'blog' ? route('home') : '' }}">Smart Vest Limited</a></h1> 
           <br/>
-          <h4 id="creed">we develop softwares</h4>
+          <h4 id="creed">A Penny Saved is Apenny Earned</h4>
           <form action="{{ route('blog.search') }}" method="post" accept-charset="utf-8" class="search">
             <button type="submit" class="icon icon-search-1"></button>
             <input type="hidden" name="_token" value="{{ csrf_token() }}" >
@@ -32,9 +32,9 @@
 
         <ul>
           <?php $home = Request::segment(1) ? route('home') : ''; ?>
-          <li><a href="{{ '/blog' }}" id="blog">Blog</a></li>
           <li><a href="{{ $home }}#about">About</a></li>
-          <li><a href="{{ $home }}#folio">Folio</a></li>
+          <li><a href="{{ $home }}#folio">Products</a></li>
+          <li><a href="{{ $home }}#payments">Payments</a></li>
           <!-- <li><a href="{{ $home }}#partners">Partners</a></li> -->
           <!-- <li><a href="{{ $home }}#testimonials">Testimonials</a></li> -->
           <li><a href="{{ $home }}#team">Team</a></li>
@@ -43,7 +43,7 @@
 
       </nav><!--/ #navigation-->
 
-      <img src="/assets/img/sil.png" alt="" class="nai hide">
+      <img src="/assets/img/sil3.png" alt="" class="nai hide">
 
     </div><!--/ .header-in-->
 

@@ -13,12 +13,12 @@
 
                     <h1 class="ls-s2" style="left:auto; top: 43%; width:100%; slidedirection : top; slideoutdirection : fade; scaleout : 0.75; durationin : 2000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint;">
                         <!-- We Do Awesome -->
-                        We Create
+                        A PENNY SAVED
                     </h1>
 
                     <h1 class="ls-s2" style="left:auto; top: 57%; width:100%; slidedirection : bottom; slideoutdirection : fade; scaleout : 0.75; durationin : 2000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint;">
                         <!-- Web Apps -->
-                        Great Products
+                        IS A PENNY EARNED
                     </h1>
 
                 </div><!--/ .ls-layer-->

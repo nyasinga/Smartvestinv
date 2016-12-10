@@ -32,26 +32,12 @@
             <div class="row">
 
                
-                <div class="col-md-6">
+                <div class="col-md-2">
 
-                    <div class="widget widget_text opacity">
-                        <div id="africa" style="width: 100%; height: 500px"></div>
-                    </div><!--/ .widget-->
-
-                    <div class="widget widget_contacts opacity">
-
-                        <ul class="contact-details">
-                            <li>3rd floor, Bishop Magua Centre</li>
-                            <li>Ngong Road,</li>
-                            <li>Nairobi City.</li>
-                            <li>Kenya.</li>
-                        </ul><!--/ .contact-details-->
-
-                    </div><!--/ .widget-->
-
+                   
                 </div>
 
-                <div class="col-md-6 opacity">
+                <div class="col-md-8 opacity">
                     <h2>CONTACT US / REQUEST A QUOTE</h2>
                     <form action="contact"  method="post" class="contact-form">
                         <input type="hidden" name="_token" value="{{ csrf_token() }}" />
@@ -74,7 +60,10 @@
                     </form><!--/ .contact-form-->   
 
                 </div>
+                <div class="col-md-2">
 
+                                   
+                                </div>
 
             </div><!--/ .row-->
 
@@ -88,7 +77,7 @@
 
             <div class="row">
                 <div class="col-xs-12">
-                    <h1><a href="{{ route('frontend.home') }}">Horizon Softwares</a></h1>
+                    <h1><a href="{{ route('frontend.home') }}">SMARTVEST INV</a></h1>
                 </div>
             </div><!--/ .row-->
 
@@ -115,7 +104,7 @@
                     <a href="#signin" data-toggle="modal">Log In</a> &#8226; 
                 @endif
             </div>
-            <a href="{{ route('frontend.home') }}">Horizon Softwares</a> © 2014-2016. All rights reserved.
+            <a href="{{ route('frontend.home') }}">SMARTVEST INV</a> © 2014-2016. All rights reserved.
         </div><!--/ .cppyright-->
 
         <ul class="social-icons">

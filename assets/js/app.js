@@ -259,7 +259,7 @@ var App = function () {
             // niceScroll
             $("html").niceScroll({
                 styler:"fb", 
-                cursorcolor:"#00C2A9", 
+                cursorcolor:"#1E90FF", 
                 cursorwidth: '6', 
                 cursorborderradius: '10px', 
                 background: '#ccc', 

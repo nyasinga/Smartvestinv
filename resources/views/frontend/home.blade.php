@@ -11,6 +11,8 @@
 
     @include('includes.projects')
 
+    @include('includes.payments')
+
     {{-- @include('includes.partners') --}}
 
     {{-- @include('includes.testimonials') --}}
@@ -46,6 +48,8 @@
 
     {{ Html::script('assets/js/config.js') }}
     {{ Html::script('assets/js/custom.js') }}
+    <section id="payments" class="page">
+    <section class="section">
     <script>
     $(document).ready(function(){
 
@@ -145,4 +149,6 @@
     })
 
     </script>
+    </section>
+    </section>
 @stop

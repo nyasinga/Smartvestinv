@@ -19,15 +19,16 @@
                     <div class="flexslider opacity">
 
                         <ul class="slides">
-                            <li data-icon="icon-paper-plane-2" data-title="ideas">
+                            <li data-icon="icon-paper-plane-2" data-title="Savings">
                                 <p>
                                 </p>
                             </li>
                             <li data-icon="icon-pencil-7" data-title="design">
+                             <img src="/assets/img/saving.jpg">
                                 <p>
                                 </p>                    
                             </li>
-                            <li data-icon="icon-code" data-title="Development">
+                            <li data-icon="icon-code" data-title="Short-Term Advances/Loanss">
                                 <p>
                                 </p>        
                             </li>
@@ -36,7 +37,7 @@
                                 </p>                            
                             </li>
 
-                            <li data-icon="icon-comment-6" data-title="support">
+                            <li data-icon="icon-comment-6" data-title="Advice and support">
                                 <p>
                                 </p>                            
                             </li>

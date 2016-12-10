@@ -7,7 +7,7 @@
 <head>
     <title>
         @section('title')
-           Horizon Softwares
+           SMARTVEST INV
         @show
     </title>
 
@@ -137,8 +137,8 @@
             regionStyle: {selected: {fill: '#B64645'},
                             initial: {fill: '#ddd'}},
 
-            markerStyle: {initial: {fill: '#00c2a9',
-                           stroke: '#00c2a9'}},
+            markerStyle: {initial: {fill: '#1E90FF',
+                           stroke: '#1E90FF'}},
             // markers: [{latLng: [51.51, -0.13], name: 'London'},
             //           {latLng: [40.71, -74.00], name: 'New York'},
             //           {latLng: [-1.2833, 36.8167], name: 'Nairobi'}],

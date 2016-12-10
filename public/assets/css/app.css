@@ -1418,7 +1418,7 @@ i.icon-color-home {
    }
    50% {
       border-color: transparent;
-      background-color: #00c2a9;
+      background-color: #1E90FF;
       -webkit-box-shadow: 0 0 8px rgba(0,194,169, .5);
    }
    100% {
@@ -1434,7 +1434,7 @@ i.icon-color-home {
    }
    50% {
       border-color: transparent;
-      background-color: #00c2a9;
+      background-color: #1E90FF;
       box-shadow: 0 0 8px rgba(0,194,169, .5);
    }
    100% {
