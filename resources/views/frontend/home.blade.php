@@ -7,7 +7,7 @@
 
     @include('includes.description')
 
-    @include('includes.details')
+    {{-- @include('includes.details')--}}
 
     @include('includes.projects')
 
@@ -16,7 +16,6 @@
     {{-- @include('includes.partners') --}}
 
     {{-- @include('includes.testimonials') --}}
-
     {{-- @include('includes.team') --}}
 
 @stop

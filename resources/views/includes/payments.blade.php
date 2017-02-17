@@ -3,7 +3,7 @@
 
         <hgroup class="slogan align-center">
           <div class="container">
-            <h1><u>PAYMENT <span>OPTIONS</span> </u></h1>
+            <h1><u><span>PAYMENT OPTIONS</span> </u></h1>
           </div>
         </hgroup>
    
@@ -11,12 +11,9 @@
                  <div class="col-md-2">                 
                 </div>
           <div class=" explain col-lg-4">
-              <div class="opacity title"><u>
+              <div class="opacity title"><u><b>
                  M-Pesa Deposit
-             </u></div>
-              <div class="opacity subtitle">
-                 Fully Responsive &amp; Attractive
-              </div>
+             </b></u></div>
               <div class="opacity description">
                  <p>Go to M-Pesa  on your phone menu
                         Select Lipa na Mpesa</p>
@@ -29,17 +26,14 @@
           
           
           <div class=" explain col-lg-4">
-              <div class="opacity title"><u>
+              <div class="opacity title"><u><b>
                 Bank Account Deposit
-             </u></div>
-              <div class="opacity subtitle">
-                 Fully Responsive &amp; Attractive
-              </div>
+             </b></u></div>
+             
               <div class="opacity description">
-                 <p>SMARTVEST INVESTMENT
-                        FAMILY BANK LIMITED
-                        CITY HALL BRANCH.</p>
-                        <p> For more information call us ..0780 584 069 </p>
+                 <p>Through SMARTVEST INVESTMENT
+                        FAMILY BANK A/C.</p>
+                        <p> For more information call us ..0780 584 069 or jbosire@smartvest.co.ke</p>
               </div>
           </div>
         </div>     

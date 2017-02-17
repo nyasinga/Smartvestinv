@@ -141,7 +141,7 @@ a, a > * {
 }
 
 a:hover {
-	color: #1E90FF;
+	color: #5b5e60;
 }
 
 .not-ie a {
@@ -954,7 +954,7 @@ body {
 			.navigation ul ul .current-menu-ancestor > a,
 			.navigation ul ul .current_page_item > a,
 			.navigation ul ul .current_page_parent > a,
-			.navigation ul ul .current_page_ancestor > a { color: #1E90FF; }
+			.navigation ul ul .current_page_ancestor > a { color: #5b5e60; }
 			
 	/* Responsive Button */
 

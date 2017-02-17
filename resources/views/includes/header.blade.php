@@ -6,23 +6,10 @@
     <div class="header-in clearfix">
 
       <div id="top-left" class="col-md-6 col-sm-12 col-xs-12">
-          <h1 id="logo"><a href="{{ Request::path() == 'blog' ? route('home') : '' }}">Smart Vest Limited</a></h1> 
+          <h1 id="logo"><b><a href="{{ Request::path() == 'blog' ? route('home') : '' }}">SMARTVEST INV</a></b></h1> 
           <br/>
-          <h4 id="creed">A Penny Saved is Apenny Earned</h4>
-          <form action="{{ route('blog.search') }}" method="post" accept-charset="utf-8" class="search">
-            <button type="submit" class="icon icon-search-1"></button>
-            <input type="hidden" name="_token" value="{{ csrf_token() }}" >
-            <input type="text" name="query" value="{{ isset($query) ? $query : 'Search Blog...' }}" placeholder="Search Blog..." 
-                onclick="this.placeholder='Type...';this.value=='Search Blog...'?this.value='':true" 
-                onblur="this.value=this.value==''?'Search Blog...':this.value;this.placeholder='Search Blog...'" required>
-
-            @if(Auth::check())
-                <a href="{{ route('blog.create') }}" class="icon icon-pencil"></a>
-            @else
-                <a>Log In</a> &#8226; 
-                <a href="#signin" data-toggle="modal" class="icon icon-pencil"></a>
-            @endif
-          </form><!--/ .search-form--> 
+          <h4 id="creed">A Penny Saved is A Penny Earned</h4>
+         
       </div>
 
 
@@ -35,9 +22,6 @@
           <li><a href="{{ $home }}#about">About</a></li>
           <li><a href="{{ $home }}#folio">Products</a></li>
           <li><a href="{{ $home }}#payments">Payments</a></li>
-          <!-- <li><a href="{{ $home }}#partners">Partners</a></li> -->
-          <!-- <li><a href="{{ $home }}#testimonials">Testimonials</a></li> -->
-          <li><a href="{{ $home }}#team">Team</a></li>
           <li><a href="#footer">Contacts</a></li>
         </ul>
 

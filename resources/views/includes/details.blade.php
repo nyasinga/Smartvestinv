@@ -23,7 +23,7 @@
                                 <p>
                                 </p>
                             </li>
-                            <li data-icon="icon-pencil-7" data-title="design">
+                            <li data-icon="" data-title="design">
                              <img src="/assets/img/saving.jpg">
                                 <p>
                                 </p>                    

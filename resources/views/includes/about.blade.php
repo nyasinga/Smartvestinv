@@ -28,11 +28,11 @@
                     <img alt="" class="ls-bg" src="assets/img/bg/central-park.jpg">
 
                     <h1 class="ls-s2" style="left:auto; top: 43%; width:100%; slidedirection : top; slideoutdirection : fade; scaleout : 0.75; durationin : 2000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint;">
-                        We really love
+                       We Provide 
                     </h1>
 
                     <h1 class="ls-s2" style="left:auto; top: 57%; width:100%; slidedirection : bottom; slideoutdirection : fade; scaleout : 0.75; durationin : 2000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint;">
-                        what we do
+                       Saving Services  
                     </h1>
 
                 </div><!--/ .ls-layer-->
@@ -40,14 +40,14 @@
                 <div class="ls-layer" style="text-align:center; slidedirection: right; durationin: 1500; durationout: 1500; easingin: easeInOutQuint; timeshift: -500;">
 
                     <!-- <img alt="" class="ls-bg" src="assets/img/bg/times-tower.jpg"> -->
-                    <img alt="" class="ls-bg" src="assets/img/bg/university-way.jpg">
+                    <img alt="" class="ls-bg" src="assets/img/bg/sameer.jpg">
 
                     <h1 class="ls-s2" style="left:auto; top: 43%; width:100%; slidedirection : top; slideoutdirection : fade; scaleout : 0.75; durationin : 2000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint;">
-                        and we do
+                        and Short-Term 
                     </h1>
 
                     <h1 class="ls-s2" style="left:auto; top: 57%; width:100%; slidedirection : bottom; slideoutdirection : fade; scaleout : 0.75; durationin : 2000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint;">
-                        what we love!
+                       ADVANCE/LOANS!
                     </h1>
 
                 </div><!--/ .ls-layer-->

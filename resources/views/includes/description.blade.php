@@ -3,17 +3,22 @@
 
         <hgroup class="slogan align-center">
           <div class="container">
-            <h1>We Provide <span>Great Products</span> and <span>Services </span></h1>
+            <h1>We are <span>A Micro-Investment</span>  <span>Management Company </span></h1>
           </div>
         </hgroup>
-              
+             
         <div class="sliders">
-          <div class=" explain col-lg-6">
+        <div class="opacity title">
+         <h4> We offer cash advances for a maximum period of 31 days which attracts a 10% interest only to members. We arrange repayment of your advance to coincide with your paydays to ensure smooth running of your daily operations.</h4></div>
+        <div class=" explain col-lg-2">
+        </div>
+          <div class=" explain col-lg-4">
+
               <div class="opacity title"><u>
                  OUR VISION
              </u></div>
               <div class="opacity subtitle">
-                 Fully Responsive &amp; Attractive
+                 
               </div>
               <div class="opacity description">
                  <p>To empower low & middle income earners by instilling a saving culture and providing innovative investment options. </p>
@@ -27,12 +32,12 @@
               </div>
           </div>
 
-          <div class=" explain col-lg-6">
+          <div class=" explain col-lg-4">
               <div class="opacity title"><u>
-                 OUR VISION
+                 OUR MISSION
              </u></div>
               <div class="opacity subtitle">
-                 Fully Responsive &amp; Attractive
+                
               </div>
               <div class="opacity description">
                  <p>To be a leading investment Management Company that empowers her investors to financial independence through saving. </p>
@@ -45,7 +50,8 @@
                  </p> -->
               </div>
           </div>
-
+        <div class=" explain col-lg-2">
+        </div>
         </div>     
 
     </section><!--/ .section-->
